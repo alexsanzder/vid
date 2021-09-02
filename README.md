@@ -1,4 +1,5 @@
-# Vid! React TypeScript Tailwind template with Vite
+[<img align="right" src="src/favicon.svg?sanitize=true" width="30%">]()
+# Vid! - React TypeScript Tailwind template with Vite
 
 This is a [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang.org/) boilerplate built with [Vite](https://vitejs.dev).
 
