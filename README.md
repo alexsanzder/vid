@@ -21,7 +21,7 @@ It also includes [Tailwind](https://tailwindcss.com/).
 1. Create the project.
 
    ```bash
-   npx degit fabien-ml/react-ts-vite-template my-app
+   npx degit alexsanzder/vid my-app
    ```
 
 2. Access the project directory.
